@@ -1,1 +1,4 @@
-# qtc-check-balance
+## Installation
+```bash
+npm qtc-check-balance
+```
